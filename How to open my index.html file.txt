@@ -1,0 +1,17 @@
+How to open my index.html file
+
+1. I had to download the "Live Server" extension in vscode and open my index.html file with it in order for it to show all the contents.
+
+2. In order to share the file with you, I had to download the "Live Share" server and connect it to my github in order to be able to give you access.
+
+3. I have copied a link to my html file in my submission.
+
+4. Once you click on it, you'll have access to my project/assignment.
+
+5. Once in the project (in vscode), if you right click the index.html file and click on "Open with Live Server", the file will open up and it will show all contents. (If you have the "Live server" extension installed).
+
+It was the only way I could have the file open up. 
+
+Thank you!
+
+Melissa
